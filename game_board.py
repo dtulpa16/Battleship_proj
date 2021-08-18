@@ -49,7 +49,7 @@ def the_board(hit,miss, final_hit ):
             position = position + 1 
         print(x,' ',row)
 
-boat_one = [45,46,47]            
+boat_one = []            
 hit = []
 miss = []    
 final_hit = []
